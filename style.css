@@ -1,0 +1,31 @@
+* {
+    border-collapse: collapse;
+    color: grey;
+}
+.head{ 
+    text-align: center;
+}
+hr {
+    color: red;
+}
+
+img {
+    width: 30px;
+}
+.table {
+    
+    text-align: center;
+    width: 100%;}
+.hovers {
+    background-color: rgb(230, 230, 230);
+}
+th {
+    border-collapse: separate;
+    border-bottom: 4px solid red;
+}
+.numeros2 {
+    text-align: left;
+}
+.equip {
+    text-align: left;
+}
